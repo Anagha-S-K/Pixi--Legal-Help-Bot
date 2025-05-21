@@ -18,4 +18,15 @@ Technologies Used:
 -Tkinter – Desktop GUI.
 -Pygame – For audio playback.
 
-▶️ How to Run
+▶️ How to Run:
+-Clone the repository:
+git clone https://github.com/yourusername/pixi-legal-chatbot.git
+cd pixi-legal-chatbot
+
+-Install dependencies:
+pip install -r requirements.txt
+(Ensure you have legal_qa.txt in the same directory.)
+
+-Run the application:
+python pixi_bot.py
+
