@@ -17,3 +17,5 @@ Technologies Used:
 -Googletrans – For translation support.
 -Tkinter – Desktop GUI.
 -Pygame – For audio playback.
+
+▶️ How to Run
